@@ -1,4 +1,4 @@
-# project_side_BGKLP-v1.0
+# project_sakurajima
 Создаем аккаунт на github
 
 Создаем аккаунт на gitpod
