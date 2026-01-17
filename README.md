@@ -1,4 +1,4 @@
-# project_sakurajima
+#sakurajima
 Создаем аккаунт на github
 
 Создаем аккаунт на gitpod
