@@ -1,4 +1,4 @@
-#sakurajima
+SAKURAJIMA 
 
 Создаем аккаунт на github
 
